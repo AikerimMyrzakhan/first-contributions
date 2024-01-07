@@ -203,6 +203,8 @@
 - [Thawzin](https://github.com/Thawzin229)
 - hello
 - [Tabish Shamim](https://github.com/tabishshamim10)
+Aikerim Myrzakhan
+
 - [Ritik Agrawal](https://github.com/relar-Ritik)
 - [Nnodim Obinna Brian](https://github.com/nnodim)
 - [Alessio Bugetti](https://github.com/AlessioBugetti)
